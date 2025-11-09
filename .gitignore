@@ -1,1 +1,6 @@
+# https://git-scm.com/docs/gitignore
+# https://help.github.com/article/ignoring-files
+# Example .gitignore files: https://github.com/github/gitignore
+/.vscode/
+/tmp/
 /.env.development
